@@ -5,6 +5,10 @@ The **Event Management System** is a microservices-based application designed to
 
 ---
 
+Video Demo Attached: https://github.com/AsheeshTrik/event-management-system/blob/main/event-management-system%20demo%20-%20480p.mov
+
+---
+
 ## Project Structure
 ```
 event-management-system
